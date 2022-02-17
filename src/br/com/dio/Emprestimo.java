@@ -31,7 +31,7 @@ public class Emprestimo {
 
             System.out.println("O Valor final do empréstimo com 1 parcelas é: R$ " + valorFinal);
         }else {
-            System.out.printf("Quantidade de parcelas inválida");
+            System.out.println("Quantidade de parcelas inválida");
         }
 
 

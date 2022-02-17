@@ -18,6 +18,9 @@ public class main {
         Menssagem.soltaMenssagem(4);
         Menssagem.soltaMenssagem(8);
         Menssagem.soltaMenssagem(23);
+        Menssagem.soltaMenssagem(10);
+        Menssagem.soltaMenssagem(00);
+        Menssagem.soltaMenssagem(16);
 
         //Eprestimo
         System.out.println("Exercicios do Emprestimo");
