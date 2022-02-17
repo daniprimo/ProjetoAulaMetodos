@@ -24,6 +24,8 @@ public class main {
         Emprestimo.Calcular(1000,Emprestimo.getNumeroParcela2());
         Emprestimo.Calcular(1000,Emprestimo.getNumeroParcela1());
         Emprestimo.Calcular(1000,3);
+        Emprestimo.Calcular(5300,Emprestimo.getNumeroParcela1());
+
 
 
     }
